@@ -1,0 +1,31 @@
+ol {
+list-style-type: decimal;
+}
+
+#V1{ position: absolute;
+    border: 2px solid red;
+    width: 500px;
+    height: 250px;
+    right: 900px;
+    top: 890px;
+}
+    /* background-color: bisque;
+    width: 300px;
+border: 5px coral double;
+padding: 50px 50px 50px 50px;
+margin: 100px 10px 100px 0px; */
+
+#V2{
+    /* background-color: bisque;
+    width: 300px;
+border: 5px coral double;
+padding: 50px 50px 50px 50px;
+margin: 0px 0px 0px 900px; */
+position: absolute;
+border: 2px solid red;
+width: 500px;
+height: 250px;
+left: 900px;
+top: 890px;
+}
+
